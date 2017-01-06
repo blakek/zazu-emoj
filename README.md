@@ -1,4 +1,4 @@
-# zazu-emoj
+# zazu-emoj [![Travis](https://img.shields.io/travis/blakek/zazu-emoj.svg)](https://travis-ci.org/blakek/zazu-emoj)
 
 > Find relevant emoji using Zazu launcher 💚😄🕵
 

@@ -1,0 +1,27 @@
+{
+  "name": "zazu-template",
+  "version": "1.0.0",
+  "description": "Zazu Template for starting your own plugin.",
+  "blocks": {
+    "input": [
+      {
+        "id": "zazu-emoj",
+        "type": "PrefixScript",
+        "prefix": "emoj",
+        "space": true,
+        "args": "required",
+        "script": "index.js",
+        "connections": [
+          "Copy"
+        ]
+      }
+    ],
+    "output": [
+      {
+        "id": "Copy",
+        "type": "CopyToClipboard",
+        "text": "{value}"
+      }
+    ]
+  }
+}

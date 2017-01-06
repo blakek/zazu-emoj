@@ -1,0 +1,23 @@
+{
+  "name": "zazu-emoj",
+  "description": "Find relevant emoji using Zazu launcher 💚😄🕵 ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/blakek/zazu-emoj",
+    "type": "git"
+  },
+  "author": "Blake Knight <oss.ideas@gmail.com> (http://blakek.me/)",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard | snazzy",
+    "test": "npm run lint"
+  },
+  "dependencies": {
+    "emoj": "^0.4.0"
+  },
+  "devDependencies": {
+    "snazzy": "^5.0.0",
+    "standard": "^8.6.0"
+  }
+}

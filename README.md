@@ -8,6 +8,8 @@ Search for emojis from your launcher!
 
 Type emoj and get emoji results
 
+![demo](example.gif)
+
 ## Acknowledgments
 
 zazu-emoj directly stole code from [`sindresorhus/emoj`](https://github.com/sindresorhus/emoj).

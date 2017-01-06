@@ -7,6 +7,11 @@
     "url": "https://github.com/blakek/zazu-emoj",
     "type": "git"
   },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "zazu.json"
+  ],
   "author": "Blake Knight <oss.ideas@gmail.com> (http://blakek.me/)",
   "license": "MIT",
   "scripts": {

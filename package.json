@@ -14,7 +14,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "emoj": "^0.4.0"
+    "got": "^6.7.1"
   },
   "devDependencies": {
     "snazzy": "^5.0.0",

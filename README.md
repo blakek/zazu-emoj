@@ -6,7 +6,7 @@ Search for emojis from your launcher!
 
 ## Usage
 
-Type emoj and get emoji results
+Type `emoj` and get emoji results (or just type `Alt-Shift-E` and just search)
 
 ![demo](example.gif)
 

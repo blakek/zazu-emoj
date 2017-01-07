@@ -3,9 +3,20 @@
   "version": "1.0.0",
   "description": "Zazu Template for starting your own plugin.",
   "blocks": {
+    "external": [
+      {
+        "id": "hotkey",
+        "name": "hotkey",
+        "type": "Hotkey",
+        "hotkey": "alt+shift+e",
+        "connections": [
+          "searcher"
+        ]
+      }
+    ],
     "input": [
       {
-        "id": "zazu-emoj",
+        "id": "searcher",
         "type": "PrefixScript",
         "prefix": "emoj",
         "space": true,

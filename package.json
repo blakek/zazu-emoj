@@ -23,6 +23,6 @@
   },
   "devDependencies": {
     "snazzy": "^6.0.0",
-    "standard": "^8.6.0"
+    "standard": "^9.0.2"
   }
 }

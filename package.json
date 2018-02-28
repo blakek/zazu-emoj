@@ -22,7 +22,7 @@
     "got": "^6.7.1"
   },
   "devDependencies": {
-    "snazzy": "^6.0.0",
+    "snazzy": "^7.1.0",
     "standard": "^10.0.0"
   }
 }

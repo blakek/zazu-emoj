@@ -19,7 +19,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "got": "^6.7.1"
+    "got": "^9.0.0"
   },
   "devDependencies": {
     "snazzy": "^6.0.0",
